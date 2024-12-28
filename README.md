@@ -1,0 +1,1 @@
+This example demonstrates a common error in TypeScript where type checking isn't as intuitive as expected for beginners. The function `greeter` expects a string, but an array is passed. The resulting error message might not immediately highlight the type mismatch issue for novice developers.
